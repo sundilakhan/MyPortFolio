@@ -12,11 +12,27 @@ body {
   font-family: 'Poppins', Inter, ui-sans-serif, system-ui;
 }
 
-.glow {
+/* .glow {
   text-shadow: 0 2px 12px rgba(168,85,247,0.25), 0 6px 40px rgba(59,130,246,0.25);
 }
 
 .card-dark {
   background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
   border: 1px solid rgba(255,255,255,0.04);
+} */
+
+.glow {
+  text-shadow: 0 0 15px rgba(0, 255, 255, 0.8);
+}
+
+.card-dark {
+  background: rgba(25, 25, 25, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  transition: 0.3s ease;
+}
+
+.card-dark:hover {
+  border-color: rgba(0, 255, 255, 0.4);
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.2);
 }

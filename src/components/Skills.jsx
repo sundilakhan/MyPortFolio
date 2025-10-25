@@ -2,11 +2,11 @@ import React from 'react'
 
 const skills = [
   { name: 'Java', level: 90 },
-  { name: 'Spring Boot', level: 85 },
-  { name: 'React', level: 80 },
-  { name: 'MySQL / MongoDB', level: 75 },
-  { name: 'HTML / CSS / JS', level: 85 },
-  { name: 'Python', level: 65 },
+  { name: 'Spring Boot', level: 65 },
+  { name: 'React', level: 50 },
+  { name: 'MySQL / MongoDB', level: 85 },
+  { name: 'HTML / CSS / JS', level: 80 },
+  { name: 'Python', level: 45 },
 ]
 
 export default function Skills(){
