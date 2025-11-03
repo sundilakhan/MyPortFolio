@@ -6,7 +6,7 @@ const skills = [
   { name: 'React', level: 50 },
   { name: 'MySQL / MongoDB', level: 85 },
   { name: 'HTML / CSS / JS', level: 80 },
-  { name: 'Python', level: 45 },
+  { name: 'Python', level: 75 },
 ]
 
 export default function Skills(){

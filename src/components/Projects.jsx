@@ -31,6 +31,12 @@ const projects = [
     desc: "An AI chatbot built with Python (Flask backend) and HTML/CSS/JavaScript frontend. Helps users with coding queries in real-time. Supports basic command recognition for Python queries. Deployed on GitHub Pages.",
     github: "https://lnkd.in/dVUBQuxh",
     live: ""
+  },
+  {
+    title: "🎵 MoodMelody – AI-Powered Music Recommender",
+    desc: "Final Year Project that combines AI with Spotify to recommend songs based on user mood. Uses OpenAI API for mood analysis and Spotify API for real-time music playback. Built with Python (Flask backend) and React.js frontend, providing seamless emotion-based playlist generation.",
+    github: "https://github.com/sundilakhan/MoodMelody", // replace with your actual repo if different
+    live: "" // add live demo link if hosted
   }
 ]
 

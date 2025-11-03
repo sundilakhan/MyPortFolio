@@ -6,9 +6,9 @@ export default function About(){
       <h2 className="text-2xl font-semibold glow">About Me</h2>
       <div className="mt-4 card-dark p-6 rounded-xl">
         <p className="opacity-80">
-          Motivated Software Engineering student with hands-on experience as an intern at 10Pearls.
-          Skilled in Java, Spring Boot, React.js, and JavaScript with a strong focus on building responsive
-          web applications. Passionate about full-stack development and continuously learning new technologies.
+          Motivated and detail-oriented Python Developer with hands-on experience in backend and full-stack development.
+           Skilled in Python, Flask, Django, REST APIs, and front-end technologies. Passionate about building efficient, scalable, and user-friendly web applications.
+            Strong foundation in problem-solving, database management, and software engineering principles, with prior internship experience at 10Pearls.
         </p>
         <div className="mt-4 grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="p-4 border border-gray-800 rounded-lg">

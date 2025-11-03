@@ -24,9 +24,9 @@ export default function Hero(){
             <Typewriter
               options={{
                 strings: [
-                  "Java Developer",
-                  "Full Stack Enthusiast",
-                  "Problem Solver"
+                  "Innovative Python Developer",
+                  "Backend Engineer",
+                  "Code. Automate. Create."
                 ],
                 autoStart: true,
                 loop: true,
