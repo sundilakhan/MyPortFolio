@@ -14,7 +14,7 @@ export default function Experience(){
         </div>
         <div className="card-dark p-4 rounded-lg">
           <div className="font-semibold">University of Central Punjab — B.S. Software Engineering (2022-2026)</div>
-          <div className="mt-2 text-sm opacity-80">CGPA: 3.84/4.0</div>
+          <div className="mt-2 text-sm opacity-80">CGPA: 3.86/4.0</div>
         </div>
       </div>
     </section>
