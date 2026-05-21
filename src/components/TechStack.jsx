@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { FaReact, FaJava, FaPython, FaDatabase, FaHtml5, FaCss3Alt, FaGitAlt } from 'react-icons/fa'
+import { FaReact, FaJava, FaPython, FaHtml5, FaCss3Alt, FaGitAlt } from 'react-icons/fa'
 import { SiSpringboot, SiMongodb, SiMysql, SiJavascript } from 'react-icons/si'
 
 const techIcons = [
